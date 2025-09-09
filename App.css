@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+}
+
+.navbar {
+  background-color: #343a40;
+  padding: 1rem 2rem;
+}
+
+.navbar-brand {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: white;
+}
+
+.recipe-card {
+  transition: transform 0.3s;
+  height: 100%;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-card:hover {
+  transform: translateY(-5px);
+}
+
+.recipe-image {
+  height: 200px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.recipe-detail-image {
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.btn-add-recipe {
+  position: fixed;
+  left: 20px;
+  top: 80px;
+  z-index: 100;
+}
+
+.form-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ingredients-list, .instructions-list {
+  text-align: left;
+}
+
+.card-title {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.card-footer {
+  background-color: transparent;
+  border-top: none;
+}
