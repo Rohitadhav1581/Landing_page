@@ -1,0 +1,54 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "description": "A classic Italian pasta dish with eggs, cheese, pancetta, and black pepper.",
+      "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
+      "ingredients": [
+        "400g spaghetti",
+        "200g pancetta or guanciale",
+        "4 large eggs",
+        "100g Pecorino Romano cheese",
+        "50g Parmesan cheese",
+        "Freshly ground black pepper",
+        "Salt"
+      ],
+      "instructions": "Cook pasta. Fry pancetta. Mix eggs and cheese. Combine all ingredients while pasta is hot."
+    },
+    {
+      "id": 2,
+      "name": "Chicken Tikka Masala 69",
+      "description": "A flavorful Indian curry dish with marinated chicken in a creamy tomato sauce.",
+      "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1071&q=80",
+      "ingredients": [
+        "800g chicken breast",
+        "200g yogurt",
+        "2 tbsp garam masala",
+        "1 tbsp ground cumin",
+        "1 tbsp ground coriander",
+        "400g tomato sauce",
+        "200ml heavy cream",
+        "2 onions",
+        "4 garlic cloves",
+        "Fresh coriander"
+      ],
+      "instructions": "Marinate chicken. Grill until charred. Make sauce with onions, spices, and tomatoes. Add cream and chicken."
+    },
+    {
+      "id": 3,
+      "name": "Avocado Toast",
+      "description": "A simple and nutritious breakfast with mashed avocado on toasted bread.",
+      "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80",
+      "ingredients": [
+        "2 slices of bread",
+        "1 ripe avocado",
+        "1 lemon",
+        "Red pepper flakes",
+        "Salt and pepper",
+        "Optional: eggs, cherry tomatoes, feta cheese"
+      ],
+      "instructions": "Toast bread. Mash avocado with lemon juice, salt, and pepper. Spread on toast. Add toppings as desired."
+    }
+  ]
+}
